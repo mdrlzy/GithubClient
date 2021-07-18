@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_search"
+        android:icon="@drawable/ic_search_24"
+        android:title="Search"/>
+    <item
+        android:id="@+id/page_downloaded"
+        android:enabled="true"
+        android:icon="@drawable/ic_download_24dp"
+        android:title="Downloaded"/>
+</menu>
